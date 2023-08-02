@@ -1,0 +1,83 @@
+.buttonstake{
+    background-color: rgb(173, 243, 94);
+    color: rgb(0, 0, 0);
+    border: none;
+    padding: 7px 20px 7px 20px;
+    cursor: pointer;
+}
+.buttonunstake{
+    background-color: rgb(255, 38, 0);
+    color: rgb(255, 255, 255);
+    border: none;
+    padding: 7px 20px 7px 20px;
+    cursor: pointer;
+}
+.yourstake{
+    background-color: rgb(0, 204, 255);
+    color: white;
+    border: none;
+    padding: 7px 20px 7px 20px;
+    cursor: pointer;
+}
+
+.confirmstate{
+    background-color: rgb(174, 0, 255);
+    color: white;
+    border: none;
+    padding: 3px 10px 3px 10px;
+    cursor: pointer;
+}
+
+
+@media (max-width: 576px) {
+    .buttonstake,
+    .buttonunstake,
+    .yourstake {
+      padding: 5px 15px;
+    }
+  }
+  
+  @media (min-width: 577px) and (max-width: 768px) {
+    .buttonstake,
+    .buttonunstake,
+    .yourstake {
+      padding: 7px 18px;
+    }
+  }
+  
+  @media (min-width: 769px) and (max-width: 992px) {
+    .buttonstake,
+    .buttonunstake,
+    .yourstake {
+      padding: 7px 20px;
+    }
+  }
+  
+  /* Styles for .buttonstake */
+  .buttonstake {
+    background-color: rgb(173, 243, 94);
+    color: rgb(0, 0, 0);
+  }
+  
+  /* Styles for .buttonunstake */
+  .buttonunstake {
+    background-color: rgb(255, 38, 0);
+    color: rgb(255, 255, 255);
+  }
+  
+  /* Styles for .yourstake */
+  .yourstake {
+    background-color: rgb(0, 204, 255);
+    color: white;
+  }
+  
+  /* Styles for .confirmstate */
+  .confirmstate {
+    background-color: rgb(174, 0, 255);
+    color: white;
+    border: none;
+    padding: 3px 10px;
+    cursor: pointer;
+  }
+  
+  /* ... Rest of the CSS rules ... */
