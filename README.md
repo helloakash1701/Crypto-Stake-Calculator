@@ -1,70 +1,44 @@
-# Getting Started with Create React App
+# Crypto Stake Calculator
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+A simple web application that calculates the total stake for Cardona and Palkondot (PLKD) cryptocurrencies based on user inputs.
 
-In the project directory, you can run:
+## Table of Contents
 
-### `npm start`
+- [Introduction](#introduction)
+- [Features](#features)
+- [Demo](#demo)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Introduction
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Crypto Stake Calculator is a user-friendly tool designed to help cryptocurrency investors calculate the total stake for Cardon and Palkondot tokens. By entering the number of tokens and their respective staking percentages, the application provides the total stake in USD.
+![image](https://github.com/helloakash1701/Luganodes_task2/assets/80618499/a52277eb-70e5-4663-be9b-601d3257ee22)
 
-### `npm test`
+## Features
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- Calculate total stake for Cardona and Palkondot (PLKD) cryptocurrencies.
+- User-friendly interface for entering token amounts and staking percentages.
+- Instantly see the calculated total stake in USD.
+- Responsive design for a seamless experience on both desktop and mobile devices.
+![image](https://github.com/helloakash1701/Luganodes_task2/assets/80618499/d3d8e343-791e-413f-b6b8-e60ee4b20c1a)
 
-### `npm run build`
+## Demo
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![App Demo](app_demo.gif)
+![image](https://github.com/helloakash1701/Luganodes_task2/assets/80618499/c837aebf-05d3-4e1d-9370-b8e42ab572db)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Check out the live demo [here](https://drive.google.com/file/d/1BRA8Uu3zHwqKXa0kH4kuJUAJ-kEaUq9t/view?usp=sharing).
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Installation
 
-### `npm run eject`
+1. Clone the repository to your local machine.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+```bash
+git clone https://github.com/helloakash1701/Luganodes_task2.git
+npm install
+npm start
+```
