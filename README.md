@@ -32,7 +32,6 @@ Crypto Stake Calculator is a user-friendly tool designed to help cryptocurrency 
 ![App Demo]
 ![image](https://github.com/helloakash1701/Crypto-Stake-Calculator/assets/80618499/39289e1f-69f9-4789-be75-b5531273dd5b)
 
-![image](https://github.com/helloakash1701/Luganodes_task2/assets/80618499/c837aebf-05d3-4e1d-9370-b8e42ab572db)
 
 Check out the live demo [here](https://drive.google.com/file/d/1BRA8Uu3zHwqKXa0kH4kuJUAJ-kEaUq9t/view?usp=sharing).
 
